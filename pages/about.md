@@ -1,6 +1,6 @@
 ---
-title: About Me
-description: All about me in this page
+title: About
+description: a writing group for the Vale of Belvoir
 layout: layouts/post.njk
 hideTagsList: true
 eleventyNavigation:
@@ -9,7 +9,7 @@ eleventyNavigation:
 ---
 
 
-consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Id nibh tortor id aliquet lectus. Sit amet consectetur adipiscing elit duis. A diam maecenas sed enim ut. Dolor sit amet consectetur adipiscing elit pellentesque habitant. Gravida neque convallis a cras semper auctor. Quisque sagittis purus sit amet volutpat consequat mauris nunc congue. Dolor sed viverra ipsum nunc aliquet bibendum. Netus et malesuada fames ac turpis egestas sed tempus. Nunc sed augue lacus viverra. Potenti nullam ac tortor vitae. Nunc mi ipsum faucibus vitae aliquet nec ullamcorper. 
+ adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Id nibh tortor id aliquet lectus. Sit amet consectetur adipiscing elit duis. A diam maecenas sed enim ut. Dolor sit amet consectetur adipiscing elit pellentesque habitant. Gravida neque convallis a cras semper auctor. Quisque sagittis purus sit amet volutpat consequat mauris nunc congue. Dolor sed viverra ipsum nunc aliquet bibendum. Netus et malesuada fames ac turpis egestas sed tempus. Nunc sed augue lacus viverra. Potenti nullam ac tortor vitae. Nunc mi ipsum faucibus vitae aliquet nec ullamcorper. 
 
 ## Erat pellentesque adipiscing commodo elit at imperdiet.
 
