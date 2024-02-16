@@ -42,25 +42,4 @@ module.exports = (config) => {
 
   });
 
-const Image = require("@11ty/eleventy-img");
-
-// Only one module.exports per configuration file, please!
-module.exports = function(eleventyConfig) {
-	eleventyConfig.addAsyncShortcode("image", async function(src, alt, sizes) {
-		let metadata = await Image(src, {
-			widths: [300, 600],
-			formats: ["avif", "jpeg"]
-		});
-
-		let imageAttributes = {
-			alt,
-			sizes,
-			loading: "lazy",
-			decoding: "async",
-		};
-
-		// You bet we throw an error on a missing alt (alt="" works okay)
-		return Image.generateHTML(metadata, imageAttributes);
-	});
-
 }
