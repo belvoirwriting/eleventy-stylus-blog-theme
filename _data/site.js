@@ -1,7 +1,7 @@
 module.exports = {
   meta: {
-    title: "Vale of Blevoir Writing Group",
-    description: "Lorem ipsum dolor sit amet consectetur adipisicing elit.",
+    title: "Vale of Belvoir Writing Group",
+    description: "A group for writers meeting Bottesford every month.",
     lang: "en",
     siteUrl: "https://example.com/",
   },
