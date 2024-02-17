@@ -1,8 +1,10 @@
 ---
 title: Chains
 subtitle: April 2021 theme
-category:
-- Inspiration
+tags:
+- inspiration
+- meetings
+- themes
 author: Vale of Belvoir Writing Group
 date: 2021-03-13T00:00:00.000+00:00
 featureImage: "/uploads/12472399134_4b289cd98d_b.jpeg"

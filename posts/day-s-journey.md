@@ -1,8 +1,10 @@
 ---
 title: Day’s journey
 subtitle: February 2021 meeting theme
-category:
-- Inspiration
+tags:
+- inspiration
+- meetings
+- themes
 author: Vale of Belvoir Writing Group
 date: 2021-01-19T00:00:00.000+00:00
 featureImage: "/uploads/IMG_7906.jpg"

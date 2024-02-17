@@ -1,7 +1,10 @@
 ---
 title: Lost and found
 subtitle: October 2020 theme
-category: [Inspiration]
+tags:
+- inspiration
+- meetings
+- themes
 author: Vale of Belvoir Writing Group
 date: 2020-10-09T23:00:00Z
 featureImage: '/uploads/lost_and_found.jpg'
