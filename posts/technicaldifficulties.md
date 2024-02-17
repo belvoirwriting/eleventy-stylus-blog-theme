@@ -17,4 +17,4 @@ All the old posts are back on the website after an interlude using a supposedly 
 
 ### Frustration or a fresh start? 
 
-Please feel free to use, modify or ignore the optional theme of "technical difficulties" for your February and March writing. This could be a short story, poem, blog post or tract about your own  or your characters' technical difficulties. How does this impact event? How does it make you or your characters feel? Has it ever been that much that you've put aside your device and preferred to find peace in the garden or a pint at the pub?
+Please feel free to use, modify or ignore the optional theme of "technical difficulties" for your February and March writing. This could be a short story, poem, blog post or tract about your own  or your characters' technical difficulties. How does this impact events? How does it make you or your characters feel? Has it ever been that much that you've put aside your device and preferred to find peace in the garden or a pint at the pub?
