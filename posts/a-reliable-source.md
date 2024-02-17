@@ -2,7 +2,7 @@
 title: A reliable source
 subtitle: January 2021 meeting theme
 tags:
-  - Inspiration
+  - inspiration
 author: Vale of Belvoir Writing Group
 date: 2020-12-09T00:00:00.000+00:00
 featureImage: "/uploads/CL_Society_49_Whispering_francisco_osorio.jpg"
