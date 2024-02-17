@@ -1,6 +1,6 @@
 ---
 title: About
-description: a writing group for the Vale of Belvoir
+description: a writing group for the Vale of Belvoir meeting monthly in the Parish Room, The Old School, Bottesford
 layout: layouts/post.njk
 hideTagsList: true
 eleventyNavigation:
@@ -9,24 +9,31 @@ eleventyNavigation:
 ---
 
 
- adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Id nibh tortor id aliquet lectus. Sit amet consectetur adipiscing elit duis. A diam maecenas sed enim ut. Dolor sit amet consectetur adipiscing elit pellentesque habitant. Gravida neque convallis a cras semper auctor. Quisque sagittis purus sit amet volutpat consequat mauris nunc congue. Dolor sed viverra ipsum nunc aliquet bibendum. Netus et malesuada fames ac turpis egestas sed tempus. Nunc sed augue lacus viverra. Potenti nullam ac tortor vitae. Nunc mi ipsum faucibus vitae aliquet nec ullamcorper. 
+It all started in 2018 with the vicar very kindly letting us set up and host the Vale of Belvoir Writing Group in St Mary's Church, Bottesford. And we've been meeting every month on the second Tuesday ever since. There have been monthly themes and ideas to write to, as well the odd flash writing exercise every now and again, as well as visits from published authors and academics. Our aims have always been to help writers find their own voice, to feel confident and encouraged with their writing, and to provide supportive space to try out new ideas. We also want to keep this free for everyone, with no membership or attendance fees. 
 
-## Erat pellentesque adipiscing commodo elit at imperdiet.
+## You're on mute
 
-Ultrices in iaculis nunc sed augue lacus viverra vitae. Porttitor leo a diam sollicitudin. Nunc congue nisi vitae suscipit. Odio morbi quis commodo odio aenean sed adipiscing diam donec. 
+Things took a turn in 2020 and we found ourselves unable to meet in the church or anywhere else. Technology helped and hindered in equal measure and we were able to see each other via Google Meet for a couple of years while this whole covid thing sorted itself out, but it relied on everything working for everyone at the same time. 
 
-### Urna neque viverra justo nec ultrices. 
+### Old School 
 
-Vitae aliquet nec ullamcorper sit amet risus. Neque viverra justo nec ultrices dui sapien eget mi. At consectetur lorem donec massa sapien faucibus et molestie. Mauris cursus mattis molestie a. Risus nec feugiat in fermentum posuere urna nec. Egestas sed sed risus pretium. 
+At the end of 2022 we were fortunate to find a new home in the real world. We now meet in the Parish Room, the Old School, Grantham Road, Bottesford. We welcome writers from all over the Vale of Belvoir and beyond. It doesn't matter if you're from Bottesford, Plungar, Redmile, Granby, Muston, Stathern, Eastwell, Grantham, Melton, Nottingham or anywhere else. Most members are from Bottesford and surrounding villages and all contribute to our friendly community of writers.
 
-#### quam vulputate dignissim suspendisse in.
+#### Join us at our next meeting
 
-Nulla aliquet porttitor lacus luctus accumsan tortor. Malesuada pellentesque elit eget gravida cum sociis natoque. Amet luctus venenatis lectus magna fringilla. Accumsan tortor posuere ac ut consequat semper. Varius duis at consectetur lorem. Condimentum id venenatis a condimentum. Vulputate ut pharetra sit amet. Dolor sit amet consectetur adipiscing. Odio eu feugiat pretium nibh ipsum consequat nisl. Amet cursus sit amet dictum sit amet justo donec. Nibh sed pulvinar proin gravida hendrerit. Eget egestas purus viverra accumsan in nisl nisi. Arcu risus quis varius quam quisque id diam vel. Ut tortor pretium.
+We meet every second Tuesday of the month at 8pm in the Parish Room, The Old School (next to the library) in Bottesford. We have optional themes for each meeting, which you can choose to write about or completely ignore. Some people like to share their works in progress, but there's no obligation to bring or read out any writing. <br>
 
-##### viverra suspendisse potenti nullam ac tortor.
-
-Facilisis gravida neque convallis a cras semper auctor. Turpis massa tincidunt dui ut ornare lectus. Massa eget egestas purus viverra accumsan in nisl nisi scelerisque. Feugiat vivamus at augue eget arcu dictum. Posuere urna nec tincidunt praesent. Ipsum consequat nisl vel pretium lectus quam id leo in. Nulla malesuada pellentesque elit eget gravida cum. Vitae purus faucibus ornare suspendisse sed nisi lacus sed viverra. Mattis aliquam faucibus purus in massa. Nisi quis eleifend quam adipiscing vitae proin sagittis nisl. Odio ut sem nulla pharetra diam sit amet nisl. Penatibus et magnis dis parturient montes nascetur ridiculus mus. Odio eu feugiat pretium nibh ipsum consequat nisl vel. Risus nullam eget felis eget nunc lobortis mattis. Lectus magna fringilla urna porttitor rhoncus dolor. Lorem ipsum dolor sit amet 
-
-###### consectetur adipiscing elit duis.
-
-Molestie a iaculis at erat pellentesque adipiscing commodo. Ullamcorper velit sed ullamcorper morbi. Adipiscing diam donec adipiscing tristique risus nec feugiat in fermentum. Integer vitae justo eget magna fermentum iaculis. Odio tempor orci dapibus ultrices in iaculis nunc. Purus sit amet luctus venenatis lectus magna fringilla urna. Iaculis nunc sed augue lacus viverra vitae congue eu. Id velit ut tortor pretium viverra suspendisse. Tellus elementum sagittis vitae et leo. Nulla malesuada pellentesque elit eget gravida cum sociis. Eget aliquet nibh praesent tristique magna sit amet. Purus sit amet volutpat consequat mauris nunc congue nisi. Sit amet aliquam id diam maecenas ultricies. Nisl nunc mi ipsum faucibus vitae aliquet nec ullamcorper. Quis ipsum suspendisse ultrices gravida dictum fusce. Ut consequat semper viverra nam libero justo laoreet. Iaculis at erat pellentesque adipiscing commodo. Risus nec feugiat in fermentum posuere urna nec tincidunt praesent.
+> ##### Upcoming dates for 2024:
+>
+> - 12 March. ***Optional theme:*** Technical difficulties
+> - 9 April
+> - 14 May
+> - 11 June
+> - 9 July
+> - 13 August
+> - 10 September
+> - 8 October
+> - 12 November
+> - 10 December
+>
+> We meet from 8pm usually to around 9.30pm
