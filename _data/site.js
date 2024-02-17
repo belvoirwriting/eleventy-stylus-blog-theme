@@ -14,7 +14,7 @@ module.exports = {
     authorEmail: "words@belvoirwriting.co.uk"
   },
   hero: { // used in hero section of main page ie. index.html.njk
-    title: "Welcome to the Vale of Belvoir Writing Group",
-    description: "Meeting in Bottesford every second Tuesday of the month at 8pm in the Old School next to the library. Find your voice as a writer, feel confident and encouraged, and enjoy a supportive space to try out new ideas."
+    title: "Join our group of writers",
+    description: "We meet every second Tuesday of the month at 8pm in the Old School next to Bottesford library. Find your voice as a writer, feel confident and encouraged, and enjoy a supportive space to try out new ideas."
   }
 }
