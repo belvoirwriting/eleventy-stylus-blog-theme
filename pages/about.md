@@ -7,9 +7,13 @@ eleventyNavigation:
   key: About
   weight: 2
 ---
+<p>We are a group of writers meeting in Bottesford every second Tuesday of the month at 8pm in the Old School next to the library. </p>
 
+<p>Our aims are to help writers find their own voice, to feel confident and encouraged with their writing, and to provide supportive space to try out new ideas. We also want to keep this free for everyone, with no membership or attendance fees and to provide a creative resource and outlet for the community.</p>
 
-It all started in 2018 with the vicar very kindly letting us set up and host the Vale of Belvoir Writing Group in St Mary's Church, Bottesford. And we've been meeting every month on the second Tuesday ever since. There have been monthly themes and ideas to write to, as well the odd flash writing exercise every now and again, as well as visits from published authors and academics. Our aims have always been to help writers find their own voice, to feel confident and encouraged with their writing, and to provide supportive space to try out new ideas. We also want to keep this free for everyone, with no membership or attendance fees. 
+## How it all began
+
+It all started in 2018 with the vicar very kindly letting us set up and host the Vale of Belvoir Writing Group in St Mary's Church, Bottesford. There have been monthly themes and ideas to write to, the odd flash writing exercise every now and again, as well as visits from published authors and academics.
 
 ## You're on mute
 
