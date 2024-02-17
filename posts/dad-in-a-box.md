@@ -2,9 +2,9 @@
 title: Dad in a Box
 subtitle: Debut novel from Mark Spruce
 tags:
-- success
-- publishing
-- Kindle
+  - success
+  - publishing
+  - Kindle
 author: Mark Spruce
 date: 2020-10-16T23:00:00.000+00:00
 featureImage: "/img/Mark_Spruce.jpg"

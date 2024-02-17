@@ -2,10 +2,10 @@
 title: Waffles and other recipes
 subtitle: What we’ve been doing
 tags:
-- inspiration
-- meetings
-- themes
-- spaghetti
+  - inspiration
+  - meetings
+  - themes
+  - spaghetti
 author: Vale of Belvoir Writing Group
 date: 2021-09-14T23:00:00.000+00:00
 featureImage: "/uploads/home-hero.jpg"

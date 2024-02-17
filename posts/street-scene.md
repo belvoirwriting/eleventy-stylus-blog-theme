@@ -2,9 +2,9 @@
 title: Street scene
 subtitle: September 2020 writing prompt
 tags:
-- inspiration
-- meetings
-- themes
+  - inspiration
+  - meetings
+  - themes
 author: Vale of Belvoir Writing Group
 date: 2020-08-18T09:48:16.345+00:00
 featureImage: "/uploads/street-scene-sept20.jpeg"

@@ -2,9 +2,9 @@
 title: Construction
 subtitle: Theme for December 2020
 tags:
-- inspiration
-- meetings
-- themes
+  - inspiration
+  - meetings
+  - themes
 author: Vale of Belvoir Writing Group
 date: 2020-11-15T00:00:00.000+00:00
 featureImage: "/uploads/Construction_cranes_sunset_world_bank_photo.jpg"
