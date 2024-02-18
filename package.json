@@ -17,5 +17,8 @@
     "watch:11ty": "eleventy --serve",
     "build": "npm run build:stylus && npm run build:11ty",
     "dev": "concurrently -n stylus,11ty \"npm:watch:stylus\" \"npm:watch:11ty\""
+  },
+  "dependencies": {
+    "@11ty/eleventy-img": "^4.0.2"
   }
 }
