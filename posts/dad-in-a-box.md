@@ -26,7 +26,7 @@ If you have a good idea then just keep plugging away one chapter at a time. Revi
 
 The book, _Dad in a Box_, is available to buy via [Amazon](https://www.amazon.co.uk/Dad-Box-Mark-Spruce/dp/B08KGZZR79/ref=tmm_pap_swatch_0?_encoding=UTF8&qid=&sr=) as a paperback or Kindle edition.
 
-![alt text](<img src="/uploads/Mark_Spruce.jpg"> "Mark Spruce and his debut novel - Dad in a Box")
+![alt text](<img src="/static/img/Mark_Spruce.jpg"> "Mark Spruce and his debut novel - Dad in a Box")
 
 _Mark will present practical steps to publishing your own novel via Amazon at our next meeting on 10 November 2020. And, for a musical interlude, head over to Mark's_ [_YouTube_](https://www.youtube.com/channel/UCXah9yiUx8Iy63yAldSUkAg) _channel._
 
