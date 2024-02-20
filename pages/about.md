@@ -7,7 +7,7 @@ eleventyNavigation:
   key: About
   weight: 2
 ---
-<p>Email words@belvoirwriting.co.uk to join our next meeting or to find out more.</p>
+<p><i>Email words@belvoirwriting.co.uk to join our next meeting or to find out more</i>.</p>
   
 <p>We are a group of writers meeting in Bottesford every second Tuesday of the month at 8pm in the Old School next to the library. </p>
 </p>
