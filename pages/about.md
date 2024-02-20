@@ -7,8 +7,10 @@ eleventyNavigation:
   key: About
   weight: 2
 ---
+<p>Email words@belvoirwriting.co.uk to join our next meeting or to find out more.</p>
+  
 <p>We are a group of writers meeting in Bottesford every second Tuesday of the month at 8pm in the Old School next to the library. </p>
-
+</p>
 <p>Our aims are to help writers find their own voice, to feel confident and encouraged with their writing, and to provide supportive space to try out new ideas. We also want to keep this free for everyone, with no membership or attendance fees and to provide a creative resource and outlet for the community.</p>
 
 ## How it all began
