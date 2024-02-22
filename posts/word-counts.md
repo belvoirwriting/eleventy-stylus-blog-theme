@@ -6,6 +6,8 @@ tags:
   - craft
   - novels
   - publishing
+
+
 ---
 <i>This was something shared around members using the original site. Two of the links are dead but I hope the content is still useful.</i>
 
