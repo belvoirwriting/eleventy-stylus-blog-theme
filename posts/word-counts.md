@@ -7,11 +7,11 @@ tags:
   - novels
   - publishing
 ---
-<i>This was something put together in the very old days of the group and shared around members using the original site. Two of the links are dead but I hope the content is still useful.</i>
+<i>This was something shared around members using the original site. Two of the links are dead but I hope the content is still useful.</i>
 
 I was trying to get an idea of how many words should be in a novel and found a few articles. Cut’n’paste snippets and links are below but the short version is- it depends.  
 
-#### Articles on word count: 
+### Articles on word count: 
 Literary / Commercial / Women's: 80,000 to 110,000 Crime Fiction: 90,000 to 100,000 - The page-turning demands and competitive market enforce a word count which it is advisable to comply to Mysteries / Thrillers / Suspense: 70,000 to 90,000 http://www.litrejections.com/word-count/  
 
 “Between 80,000 and 89,999 words is a good range you should be aiming for.” 
@@ -39,9 +39,10 @@ Gone Girl: 86,400
 The Racketeer: 70,400
 This was according to a now dead link at http://pandamoonpublishing.com/pandamoon/wordcounts.html   But it’s a broken link now
 
-#### An interview with Daniel Abraham (aka one half of James SA Corey, authors of the Expanse series) says this:   
+### An interview with Daniel Abraham (aka one half of James SA Corey, authors of the Expanse series) says this:   
 
 **Any rituals, gimmicks or cheesy self-help techniques that help you write?**
+<br>
 Oh my yes. I have a perverse fixation on word count. Part of what lets me go quickly is having the additional obstacle of a particular length I’m shooting for. So, for instance, almost all of my chapters are 3,000 words long, plus or minus a couple hundred words. When I start a book or a story, I can tell you within a couple thousand words how long the first draft is going to be. It’s an axiom. I don’t understand how people just head into a story and let it figure out its own dimensions. It’s like starting a painting without knowing what size canvas you’re on. That’s just weird.  
 
 This was published at
