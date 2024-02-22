@@ -37,7 +37,7 @@ Here are the word counts for some NY Times Bestselling Fiction Books:
 Fifty Shades of Grey: 105,000 
 Gone Girl: 86,400 
 The Racketeer: 70,400
-This was according to a now dead link at http://pandamoonpublishing.com/pandamoon/wordcounts.html   But it’s a broken link now
+http://pandamoonpublishing.com/pandamoon/wordcounts.html is a broken link now.
 
 ### An interview with Daniel Abraham (aka one half of James SA Corey, authors of the Expanse series) says this:   
 
